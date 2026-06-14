@@ -1,0 +1,58 @@
+site_name: TXT to Markdown Converter
+site_description: Convierte cualquier texto o archivo .txt a bloque Markdown sin alterar el contenido.
+site_author: Juan Carlos Blanco Ruiz
+site_url: https://Juank9113.github.io/txt-to-md-converter/
+repo_url: https://github.com/Juank9113/txt-to-md-converter
+repo_name: GitHub
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: es
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.share
+  palette:
+    # Modo oscuro por defecto
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Cambiar a modo claro
+    # Modo claro opcional
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Cambiar a modo oscuro
+
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+nav:
+  - Inicio: index.md
+  - Instalación: installation.md
+  - Uso de la GUI: usage.md
+  - Solución de problemas: troubleshooting.md
+  - Contribuir: contributing.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Juank9113
+    - icon: fontawesome/solid/envelope
+      link: mailto:juancarlosblancoruiz@gmail.com
