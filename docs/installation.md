@@ -47,8 +47,7 @@ python3 txt_to_md_gui.py
 |TclError: no display name and no $DISPLAY environment variable (Linux sin interfaz)	|Necesitas ejecutar la GUI en un entorno con pantalla (no SSH sin X forwarding).|
 
 ⭐ ¿Te funcionó? ¡Apóyanos con una estrella!
-
-Haz clic aquí para dar ⭐ en GitHub
+[![GitHub stars](https://img.shields.io/github/stars/Juank9113/txt-to-md-converter?style=social)](https://github.com/Juank9113/txt-to-md-converter)
 👤 Autor
 
 Juan Carlos Blanco Ruiz – @Juank9113 – juancarlosblancoruiz@gmail.com

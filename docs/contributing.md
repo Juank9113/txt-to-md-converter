@@ -3,7 +3,7 @@
 
 ### 📄 `docs/contributing.md` (guía para contribuir)
 
-```markdown
+
 # 🤝 Contribuir al proyecto
 
 ¡Gracias por tu interés! Cualquier ayuda es bienvenida, desde reportar un bug hasta mejorar el código o la documentación.
@@ -104,33 +104,5 @@ Juan Carlos Blanco Ruiz
     Email: juancarlosblancoruiz@gmail.com
 
 ¡Gracias por contribuir!
-text
-
----
-
-## ✅ Ahora ya tienes todos los archivos completos.
-
-### Resumen de lo que debes hacer:
-
-1. **Crear la estructura de directorios** (si no la tienes):
-   ```bash
-   mkdir -p docs && touch docs/{index,installation,usage,troubleshooting,contributing}.md mkdocs.yml
-
-2. Copiar el contenido de cada archivo desde este mensaje hacia los archivos correspondientes (usa nano docs/index.md, etc.).
-
-3. Instalar MkDocs si no lo has hecho:
-    ```bash
-    pip install mkdocs mkdocs-material
-    ```
-4. Probar localmente:
-    ```bash
-    mkdocs serve
-    ```
-
-5. Publicar en GitHub Pages:
-    ```bash
-    mkdocs gh-deploy --force
-    ```
-6. Abrir tu sitio: https://Juank9113.github.io/txt-to-md-converter/
 
 

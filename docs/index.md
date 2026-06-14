@@ -3,9 +3,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/Juank9113/txt-to-md-converter?style=social)](https://github.com/Juank9113/txt-to-md-converter/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Juank9113/txt-to-md-converter?style=social)](https://github.com/Juank9113/txt-to-md-converter/network/members)
 
-Aplicación con interfaz gráfica moderna (estilo iOS) que convierte cualquier texto o archivo `.txt` en un **bloque de código Markdown** (` ```markdown ... ``` `) **sin modificar ni una línea del contenido original**.
+Aplicación con interfaz gráfica moderna (estilo iOS) que convierte cualquier texto o archivo `.txt` en un **bloque de código Markdown** (` markdown`) **sin modificar ni una línea del contenido original**.
 
-Ideal para:
+## Ideal para:
 - 📚 Documentación técnica
 - 💻 Ejemplos de código
 - 📝 Publicaciones en foros que usan Markdown
@@ -36,7 +36,7 @@ Ideal para:
 
 ![Interfaz de la aplicación](img/screenshot.png)
 
-> *Puedes añadir una captura real subiendo una imagen a `docs/img/screenshot.png`.*
+> *Captura de la pantalla pincipal `docs/img/screenshot.png`.*
 
 ---
 

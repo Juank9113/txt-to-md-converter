@@ -1,9 +1,6 @@
 
----
-
 ### 📄 `docs/usage.md` (cómo usar la GUI - fácil y visual)
-
-```markdown
+---
 # 🎮 Uso de la GUI (interfaz gráfica)
 
 La aplicación tiene **dos pestañas** muy intuitivas. Cualquier persona, sin importar su nivel técnico, puede usarla.
@@ -43,7 +40,7 @@ La aplicación tiene **dos pestañas** muy intuitivas. Cualquier persona, sin im
 
 ![Ventana principal de la GUI](img/gui-screenshot.png)
 
-*(Puedes añadir una captura real en `docs/img/gui-screenshot.png`)*
+*(Imagen de la ventala principal de la GUI)*
 
 ---
 
